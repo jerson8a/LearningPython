@@ -1,0 +1,1 @@
+Esto es una escritura sobre un archivo de texto desde Python
